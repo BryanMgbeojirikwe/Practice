@@ -1,2 +1,3 @@
-# WEB-DEV-PROJECT
+required files for a course
+
 
